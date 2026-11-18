@@ -10,6 +10,6 @@
 - **Delivery:** Git, CI/CD, Docker
 - **Scripting:** Bash, Python
 
-Reach me through [bobbyos.dev](https://bobbyos.dev) or e-mail bartoszzambrzycki@proton.me.
+Reach me at bartoszzambrzycki@proton.me.
 
 </details>
