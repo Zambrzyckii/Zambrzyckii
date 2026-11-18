@@ -12,6 +12,4 @@
 
 Reach me through [bobbyos.dev](https://bobbyos.dev) or e-mail bartoszzambrzycki@proton.me.
 
-[Open the live chip](https://raw.githubusercontent.com/Zambrzyckii/Zambrzyckii/main/assets/pillars-live.svg) to hover every block.
-
 </details>
